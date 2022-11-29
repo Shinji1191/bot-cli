@@ -1,0 +1,27 @@
+{
+  "name": "discord-commands-template",
+  "version": "1.0.0",
+  "description": "A command line interface for making commands.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinji1191/bot-cli.git"
+  },
+  "keywords": [
+    "Discord",
+    "CLI"
+  ],
+  "author": "Trash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shinji1191/bot-cli/issues"
+  },
+  "homepage": "https://github.com/Shinji1191/bot-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.5"
+  }
+}
