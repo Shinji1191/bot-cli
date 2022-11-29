@@ -151,4 +151,5 @@ module.exports = new UserContextCommand({
       process.exit()
     });
 }
-cli()
+
+module.exports = cli
